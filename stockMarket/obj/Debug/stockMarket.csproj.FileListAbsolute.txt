@@ -1,0 +1,7 @@
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\bin\Debug\stockMarket.exe.config
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\bin\Debug\stockMarket.exe
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\bin\Debug\stockMarket.pdb
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\obj\Debug\stockMarket.csprojAssemblyReference.cache
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\obj\Debug\stockMarket.csproj.CoreCompileInputs.cache
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\obj\Debug\stockMarket.exe
+C:\Users\Sricharani Aleti\source\repos\stockMarket\stockMarket\obj\Debug\stockMarket.pdb
